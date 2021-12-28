@@ -1,0 +1,19 @@
+{
+  "name": "2e9fdb8f7b40df70da0f7219a33afec6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tronbox-config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexTroshkin/2e9fdb8f7b40df70da0f7219a33afec6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexTroshkin/2e9fdb8f7b40df70da0f7219a33afec6/issues"
+  },
+  "homepage": "https://github.com/AlexTroshkin/2e9fdb8f7b40df70da0f7219a33afec6#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "4.4.1"
+  }
+}
